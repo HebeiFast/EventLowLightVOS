@@ -3,7 +3,7 @@
 
 This is the repository for the [LLE-VOS Dataset](https://mailustceducn-my.sharepoint.com/:f:/g/personal/lihebei_mail_ustc_edu_cn/EglLfpidmBhKqVsOQS91SaQBOEgY2-fPq27ZaSVHekUEiA?e=d3y4hJ).
 ## Overview
-The LLE-VOS dataset includes 70 videos, consisting of paired normal and low-light videos, along with their corresponding segmentation annotations and event streams. The videos are recorded at a diverse range of locations, including gyms, playgrounds, classrooms, meeting rooms, and zoos.
+The LLE-VOS dataset includes 70 videos, consisting of paired normal and low-light videos, along with their corresponding segmentation annotations and event streams. The videos are recorded at a diverse range of locations, including gyms, playgrounds, classrooms, meeting rooms, and zoos.
 
 ## Dataset stats
 The current version of the dataset contains:
