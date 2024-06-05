@@ -16,13 +16,13 @@ To download the dataset, please click this [link](https://mailustceducn-my.share
 ## Citation
 If you use this data, please cite the following papers:
 
-Li, Hebei, Jin Wang, Jiahui Yuan, Yue Li, Wenming Weng, Yansong Peng, Yueyi Zhang, Zhiwei Xiong, and Xiaoyan Sun. "Event-assisted Low-Light Video Object Segmentation." arXiv preprint arXiv:2404.01945 (2024).
+Li, Hebei, Jin Wang, Jiahui Yuan, Yue Li, Wenming Weng, Yansong Peng, Yueyi Zhang, Zhiwei Xiong, and Xiaoyan Sun. "Event-assisted Low-Light Video Object Segmentation." CVPR 2024.
 
 ```
 @article{li2024event,
   title={Event-assisted Low-Light Video Object Segmentation},
   author={Li, Hebei and Wang, Jin and Yuan, Jiahui and Li, Yue and Weng, Wenming and Peng, Yansong and Zhang, Yueyi and Xiong, Zhiwei and Sun, Xiaoyan},
-  journal={arXiv preprint arXiv:2404.01945},
+  booktitle={CVPR},
   year={2024}
 }
 ```
